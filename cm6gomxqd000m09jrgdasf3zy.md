@@ -5,6 +5,7 @@ seoDescription: "Integrate Wazuh, TheHive, and Shuffle in a SOC lab for automate
 datePublished: Tue Jan 28 2025 16:19:03 GMT+0000 (Coordinated Universal Time)
 cuid: cm6gomxqd000m09jrgdasf3zy
 slug: steps-to-integrate-wazuh-thehive-and-shuffle-in-a-soc-automation-lab
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738081220305/e8be7608-8b9c-41a6-ab1e-c2ba046e37d1.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1738081099762/161a4387-b89b-4e72-9ceb-9d105f69894c.jpeg
 tags: hacking, it, cybersecurity-1, blueteam
 
