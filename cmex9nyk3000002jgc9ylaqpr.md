@@ -3,12 +3,11 @@ title: "TryHackMe SilverPlatter CTF Writeup"
 datePublished: Fri Aug 29 2025 20:09:41 GMT+0000 (Coordinated Universal Time)
 cuid: cmex9nyk3000002jgc9ylaqpr
 slug: tryhackme-silverplatter-ctf-writeup
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1756499064406/3009723e-297c-42d5-acb2-a581a11cac7a.webp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1756498153121/9a5cf9a9-c0f3-40ea-969f-de5b96cae574.webp
 tags: hacking, ctf, tryhackme, ctf-writeup
 
 ---
-
-![SilverPlatter CTF Banner](https://miro.medium.com/v2/resize:fit:700/1*QIjJdMeGvcOL1LNutgdi3Q.png align="left")
 
 ## Executive Summary
 
